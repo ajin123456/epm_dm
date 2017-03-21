@@ -1,0 +1,87 @@
+{"properties": [
+  {
+    "name": "database.initialPoolSize",
+    "type": "java.lang.String",
+    "description": "A description for 'database.initialPoolSize'"
+  },
+  {
+    "name": "database.driver",
+    "type": "java.lang.String",
+    "description": "A description for 'database.driver'"
+  },
+  {
+    "name": "database.url",
+    "type": "java.lang.String",
+    "description": "A description for 'database.url'"
+  },
+  {
+    "name": "database.username",
+    "type": "java.lang.String",
+    "description": "A description for 'database.username'"
+  },
+  {
+    "name": "database.password",
+    "type": "java.lang.String",
+    "description": "A description for 'database.password'"
+  },
+  {
+    "name": "database.acquireIncrement",
+    "type": "java.lang.String",
+    "description": "A description for 'database.acquireIncrement'"
+  },
+  {
+    "name": "database.acquireIncrement",
+    "type": "java.lang.String",
+    "description": "A description for 'database.acquireIncrement'"
+  },
+  {
+    "name": "hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate.dialect'"
+  },
+  {
+    "name": "database.minPoolSize",
+    "type": "java.lang.String",
+    "description": "A description for 'database.minPoolSize'"
+  },
+  {
+    "name": "database.maxPoolSize",
+    "type": "java.lang.String",
+    "description": "A description for 'database.maxPoolSize'"
+  },
+  {
+    "name": "database.maxIdleTime",
+    "type": "java.lang.String",
+    "description": "A description for 'database.maxIdleTime'"
+  },
+  {
+    "name": "database.encryptType",
+    "type": "java.lang.String",
+    "description": "A description for 'database.encryptType'"
+  },
+  {
+    "name": "database.initialPoolSize",
+    "type": "java.lang.String",
+    "description": "A description for 'database.initialPoolSize'"
+  },
+  {
+    "name": "database.acquireIncrement",
+    "type": "java.lang.String",
+    "description": "A description for 'database.acquireIncrement'"
+  },
+  {
+    "name": "hibernate.show_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate.show_sql'"
+  },
+  {
+    "name": "hibernate.hbm2ddl.auto",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate.hbm2ddl.auto'"
+  },
+  {
+    "name": "hibernate.jdbc.batch_size",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate.jdbc.batch_size'"
+  }
+]}
